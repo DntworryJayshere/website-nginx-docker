@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a simple static site using a bootstrap template. The main purpose of this site is to get familiar with Docker & Nginx images.
